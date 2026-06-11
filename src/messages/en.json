@@ -20,7 +20,7 @@
   },
   "intro": {
     "title": "Explore Expiatorio Park",
-    "description": "Expiatorio Park is located in the Col Americana neighborhood of Guadalajara, Jalisco, Mexico. It is a beautiful urban park adjacent to the magnificent Templo Expiatorio, offering visitors a great place to relax and enjoy culture and gastronomy.",
+    "description": "Expiatorio Park (Parque Expiatorio) is located in the Col Americana neighborhood of Guadalajara, Jalisco, Mexico, adjacent to the magnificent Templo Expiatorio. It is a beautiful urban square that perfectly combines solemn religious faith with a strong local street life, making it an excellent place for tourists and local families to relax and enjoy authentic street food.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -31,29 +31,29 @@
       ]
     },
     "alsoKnownAs": {
-      "title": "Highlights",
+      "title": "Core Highlights",
       "items": [
-        "Urban Park: Located in Col Americana, Guadalajara, with beautiful surroundings.",
-        "Recreational Space: Offers green spaces and walking paths for relaxation and exercise.",
-        "Family-Friendly: Suitable for family outings with children's play facilities.",
-        "Prime Location: Located in Guadalajara, Jalisco, easily accessible."
+        "Neo-Gothic Landmark: Adjacent to Mexico's most magnificent neo-Gothic church, extremely stunning when illuminated at night.",
+        "Family Friendly: A warm and peaceful atmosphere with green spaces and walkways for citizens to relax, where children often play.",
+        "Night Food Market: In the evening, the square transforms into a famous local night food market, a mecca for tasting affordable authentic snacks.",
+        "Art District: Located in the artistic Col Americana neighborhood, surrounded by cafes and art venues."
       ]
     }
   },
   "route": {
     "title": "Tour Route",
-    "overview": "Discover the ideal route to explore Plaza de los Mariachis and experience the essence of Mexican music and culture.",
+    "overview": "The ideal route to explore Expiatorio Park and experience the square's tranquility and vibrant life:",
     "steps": [
-      "Arrive at the plaza in the afternoon to admire the surrounding colonial architecture and historical plaques.",
-      "In the evening, find a seat at an outdoor restaurant or bar to enjoy traditional tequila and Mexican cuisine.",
-      "As night falls, watch live performances by Mariachi bands and feel the lively musical atmosphere.",
-      "After your visit, walk to the nearby San Juan de Dios Market to shop for souvenirs."
+      "16:00: Arrive at the square, visit the stained glass windows inside the Templo Expiatorio, and wait for the twelve apostles statues on the clock tower to strike the hour at 18:00.",
+      "18:30: As night falls, the landscape lights on the church's outer wall light up. At this time, food stalls in the square begin to open. You can buy roasted corn or desserts and sit on the square benches to experience the local lifestyle.",
+      "19:30: Enjoy spontaneous local community activities in the square, such as open-air Salsa dancing lessons or family interactions.",
+      "20:30: After the tour, take a short walk to see the night view of the exterior of the Museum of the Arts of the University of Guadalajara (MUSA), or find a boutique cafe to rest in the surrounding Col Americana neighborhood."
     ],
-    "supplementsTitle": "Additional Tour Tips",
+    "supplementsTitle": "Supplementary Suggestions",
     "supplements": [
-      "Please prepare some small denomination peso cash for tipping the performing musicians.",
-      "The area around the plaza can be crowded, so please take care of your personal belongings.",
-      "If you wish to request a song, you can prepare the names of your favorite traditional Mexican songs in advance."
+      "Cash Preparation: Please prepare some small denomination peso cash, as food stalls and vendors in the square usually only accept cash.",
+      "Safety Tips: Although located in a good area with relatively good security, the square is crowded at night, so please keep an eye on your phone and wallet.",
+      "Weather Advice: Guadalajara's rainy season (May-October) mostly features afternoon or evening showers, please bring an umbrella."
     ]
   },
   "knowledge": {
@@ -93,46 +93,46 @@
     "plusCodeValue": "MJFR+6C Guadalajara, Jalisco, Mexico"
   },
   "hours": {
-    "title": "Opening Hours",
-    "outdoor": "Plaza Area",
-    "outdoorTime": "Open all day (verify official information)",
+    "title": "Hours",
+    "outdoor": "Daily Hours",
+    "outdoorTime": "09:00–23:00 (Specific stall hours are mostly from evening to night)",
     "lighthouse": "Best Time to Visit",
-    "summer": "Dry Season (November-April)",
-    "summerTime": "Pleasant weather, ideal for outdoor visits",
-    "winter": "Rainy Season (May-October)",
-    "winterTime": "Warm weather with afternoon rains, bring umbrella",
-    "warning": "Important Notes",
-    "warningTime": "Recommended to verify latest information before visiting",
-    "tip": "Evening visits offer the best music performances"
+    "summer": "Dry Season (Nov-Apr)",
+    "summerTime": "More pleasant climate, best for outdoor visits",
+    "winter": "Rainy Season (May-Oct)",
+    "winterTime": "Warm weather, afternoon rain, bring an umbrella",
+    "warning": "Important Notice",
+    "warningTime": "Verify latest information before visiting",
+    "tip": "Visit in the evening for the best night market food experience"
   },
   "tickets": {
-    "title": "Ticket Information",
-    "outdoor": "Plaza Visit",
-    "outdoorPrice": "Free admission",
-    "lighthouse": "Music Performances",
-    "adults": "Live performances",
-    "adultsPrice": "Tips appreciated",
-    "students": "Food Experience",
-    "studentsPrice": "Many restaurants and food stalls nearby",
-    "children": "Recommendations",
-    "childrenPrice": "Respect musicians and enjoy performances",
+    "title": "Tickets & Consumption",
+    "outdoor": "Square & Church Visit",
+    "outdoorPrice": "Completely Free",
+    "lighthouse": "Food Consumption",
+    "adults": "Street Food",
+    "adultsPrice": "Affordable and budget-friendly",
+    "students": "Nearby Restaurants",
+    "studentsPrice": "Various choices, different prices",
+    "children": "Suggestion",
+    "childrenPrice": "Bring small cash",
     "card": "Additional Services",
-    "cardPrice": "Souvenirs and music albums available"
+    "cardPrice": "No mandatory consumption"
   },
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "Nearest airport: Guadalajara International Airport (GDL). From there, take a bus or taxi to the historic center.",
-    "selfDrive": "Driving",
-    "selfDriveDesc": "The plaza is located in the historic center. Use navigation and check for public parking nearby.",
+    "airportDesc": "Nearest airport: Guadalajara International Airport (GDL). Take a taxi or ride-hailing service to the Col Americana neighborhood.",
+    "selfDrive": "Self-Driving",
+    "selfDriveDesc": "There are some paid public parking lots nearby, but parking may be tight at night.",
     "bus": "Public Transport",
-    "busDesc": "Take Guadalajara metro or bus to Historic Center station, then walk to the plaza.",
+    "busDesc": "You can take a bus or the light rail (Mi Macro) to Juárez station and walk.",
     "intercity": "Walking Tour",
-    "intercityDesc": "The plaza is in the historic center, walkable to nearby attractions.",
-    "cycling": "Other Means",
-    "cyclingDesc": "Public transport or walking recommended, historic center traffic can be congested.",
-    "tips": "Travel Tips",
-    "tipsDesc": "Plaza de los Mariachis is an excellent place to experience Mexican music and culture, evening visits recommended."
+    "intercityDesc": "Very convenient to walk if staying in Col Americana or the historic center.",
+    "cycling": "Other Methods",
+    "cyclingDesc": "Taxi/ride-hailing (Uber/DiDi) is the most recommended and safe transportation method.",
+    "tips": "Travel Advice",
+    "tipsDesc": "Public transport or taxi are both fine; if driving, there are paid public parking lots nearby."
   },
   "gallery": {
     "title": "Stunning Photos",
@@ -338,8 +338,8 @@
     "rejectAll": "Reject All"
   },
   "officialManagement": {
-    "title": "About Plaza de los Mariachis",
-    "text": "Plaza de los Mariachis is a cultural landmark in Guadalajara, and Mariachi music is recognized by UNESCO as Intangible Cultural Heritage."
+    "title": "Management",
+    "text": "Square/Park Area: As an urban public space, it is uniformly managed by the Guadalajara City Council (Ayuntamiento de Guadalajara).\n\nTemplo Expiatorio (Church): Managed by the Archdiocese of Guadalajara (Arquidiócesis de Guadalajara)."
   },
   "aboutExpiatorio": {
     "title": "Templo Expiatorio: An Icon of Guadalajara",

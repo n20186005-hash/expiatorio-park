@@ -20,7 +20,7 @@
   },
   "intro": {
     "title": "探索 Expiatorio Park",
-    "description": "Expiatorio Park（赎罪圣殿公园）位于墨西哥哈利斯科州瓜达拉哈拉的 Col Americana 社区。这是一个美丽的城市公园，毗邻宏伟的赎罪圣殿，为游客提供了一个放松身心、享受文化与美食的绝佳场所。",
+    "description": "Expiatorio Park（赎罪圣殿公园/广场）位于墨西哥哈利斯科州瓜达拉哈拉的 Col Americana 社区，毗邻宏伟的赎罪圣殿（Templo Expiatorio）。这是一个美丽的城市广场，将庄严的宗教信仰与浓厚的当地市井生活完美结合，是游客和当地家庭休闲放松、品尝正宗街头美食的绝佳场所。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
@@ -33,27 +33,27 @@
     "alsoKnownAs": {
       "title": "核心亮点",
       "items": [
-        "城市公园：位于瓜达拉哈拉的 Col Americana 社区，环境优美。",
-        "休闲场所：提供绿地和步行道，适合放松和锻炼。",
-        "家庭友好：适合家庭出游，有儿童游乐设施。",
-        "优越位置：位于哈利斯科州瓜达拉哈拉，交通便利。"
+        "新哥特式地标：紧邻墨西哥最宏伟的新哥特式教堂，夜间亮灯后极为震撼。",
+        "家庭友好：气氛温馨平和，拥有供市民休闲的绿地和步道，常有儿童在此玩耍。",
+        "夜间美食集市：晚上广场会化身为当地著名的美食夜市，是品尝平价地道小吃的圣地。",
+        "艺术街区：位于充满文艺气息的 Col Americana 社区，周边遍布咖啡馆与艺术场馆。"
       ]
     }
   },
   "route": {
     "title": "游览路线",
-    "overview": "探索 Expiatorio Park 的理想路线，感受公园的宁静与美丽。",
+    "overview": "探索 Expiatorio Park 的理想路线，感受广场的宁静与烟火气：",
     "steps": [
-      "下午抵达广场，欣赏周边的殖民时期建筑和广场的历史铜牌。",
-      "傍晚时分，找一家露天餐厅或酒吧坐下，品尝传统的龙舌兰酒和墨西哥美食。",
-      "随着夜幕降临，欣赏马里亚奇乐队的现场表演，感受热烈的音乐氛围。",
-      "游览结束后，可步行前往附近的圣胡安德迪奥斯市场（San Juan de Dios Market）购买纪念品。"
+      "下午 16:00：抵达广场，参观赎罪圣殿内部的彩色玻璃窗，并等待下午 18:00 时钟塔上的十二使徒雕像报时。",
+      "傍晚 18:30：随着夜幕降临，教堂外墙的景观灯亮起。此时广场上的小吃摊陆续出摊，可以买一份烤玉米或甜点，坐在广场长椅上感受当地人的生活气息。",
+      "晚上 19:30：欣赏广场上自发组织的当地社区活动，如露天萨尔萨舞（Salsa）教学或家庭亲子互动。",
+      "晚上 20:30：游览结束后，步行几步前往瓜达拉哈拉大学的艺术博物馆（MUSA）外观看夜景，或在周边的 Col Americana 社区找一家精品咖啡馆休息。"
     ],
     "supplementsTitle": "游览补充建议",
     "supplements": [
-      "请准备一些小额比索现金，以便向表演的音乐家支付小费。",
-      "广场周边较为拥挤，请注意保管好个人财物。",
-      "如果您想点歌，可以提前准备好喜欢的墨西哥传统歌曲名字。"
+      "现金准备：请准备一些小额比索现金，因为广场上的美食摊位和小贩通常只收现金。",
+      "安全提示：虽然位于好区且治安相对较好，但广场夜间人流密集，仍需注意保管好手机和钱包。",
+      "天气建议：瓜达拉哈拉雨季（5月-10月）多为午后或傍晚阵雨，出行请携带雨伞。"
     ]
   },
   "knowledge": {
@@ -93,9 +93,9 @@
     "plusCodeValue": "MJFR+6C 瓜达拉哈拉 墨西哥哈利斯科州"
   },
   "hours": {
-    "title": "开放时间",
-    "outdoor": "广场区域",
-    "outdoorTime": "全天开放（建议核实官方信息）",
+    "title": "营业时间",
+    "outdoor": "每日时间",
+    "outdoorTime": "09:00–23:00（具体摊位时间多在傍晚至夜间）",
     "lighthouse": "最佳游览时间",
     "summer": "旱季（11月-4月）",
     "summerTime": "气候更宜人，最适合户外游览",
@@ -103,36 +103,36 @@
     "winterTime": "天气温暖，下午有雨，携带雨伞",
     "warning": "重要提示",
     "warningTime": "建议在参观前核实最新信息",
-    "tip": "傍晚时分前往可体验最佳的音乐表演"
+    "tip": "傍晚时分前往可体验最佳的夜市美食"
   },
   "tickets": {
-    "title": "门票信息",
-    "outdoor": "广场参观",
-    "outdoorPrice": "免费开放",
-    "lighthouse": "音乐表演",
-    "adults": "现场表演",
-    "adultsPrice": "可适当给予小费",
-    "students": "美食体验",
-    "studentsPrice": "周边有众多餐厅和摊位",
+    "title": "门票与消费",
+    "outdoor": "广场及教堂参观",
+    "outdoorPrice": "完全免费",
+    "lighthouse": "餐饮消费",
+    "adults": "街头小吃",
+    "adultsPrice": "经济实惠，消费亲民",
+    "students": "附近餐厅",
+    "studentsPrice": "选择多样，价格不等",
     "children": "建议",
-    "childrenPrice": "尊重音乐家，欣赏表演",
+    "childrenPrice": "携带小额现金",
     "card": "附加服务",
-    "cardPrice": "可购买纪念品和音乐专辑"
+    "cardPrice": "无强制消费"
   },
   "transport": {
     "title": "交通方式",
     "airport": "从机场出发",
-    "airportDesc": "最近机场：瓜达拉哈拉国际机场 (GDL)。从那里可以乘坐公交或出租车前往历史中心。",
+    "airportDesc": "最近机场：瓜达拉哈拉国际机场 (GDL)。可乘坐出租车或网约车前往 Col Americana 社区。",
     "selfDrive": "自驾前往",
-    "selfDriveDesc": "广场位于历史中心，建议使用导航前往。周边有公共停车场。",
+    "selfDriveDesc": "周边有部分收费公共停车场，但夜间可能车位紧张。",
     "bus": "公共交通",
-    "busDesc": "可乘坐瓜达拉哈拉地铁或公交车前往历史中心站，步行即可到达。",
+    "busDesc": "可乘坐公交车前往，或者乘坐轻轨（Mi Macro）到 Juárez 站后步行。",
     "intercity": "步行游览",
-    "intercityDesc": "广场位于历史中心，可步行游览周边景点。",
+    "intercityDesc": "如果住在 Col Americana 或历史中心，步行前往非常方便。",
     "cycling": "其他方式",
-    "cyclingDesc": "建议使用公共交通或步行，历史中心交通较为拥堵。",
+    "cyclingDesc": "打车/网约车（Uber/DiDi）是最推荐和安全的交通方式。",
     "tips": "出行建议",
-    "tipsDesc": "Expiatorio Park 是放松身心和享受自然的绝佳场所，建议白天前往。"
+    "tipsDesc": "乘坐公共交通或打车前往均可；若自驾，周边有部分收费公共停车场。"
   },
   "gallery": {
     "title": "精彩照片",
@@ -338,8 +338,8 @@
     "rejectAll": "拒绝一切"
   },
   "officialManagement": {
-    "title": "关于 Expiatorio Park",
-    "text": "Expiatorio Park 是瓜达拉哈拉 Col Americana 社区的一个美丽城市公园，提供绿地和休闲设施。"
+    "title": "管理归属",
+    "text": "广场/公园区域：作为城市公共空间，由瓜达拉哈拉市政府（Ayuntamiento de Guadalajara）统一管理。\n\n赎罪圣殿（教堂）：由瓜达拉哈拉天主教总教区（Arquidiócesis de Guadalajara）管理。"
   },
   "aboutExpiatorio": {
     "title": "Templo Expiatorio：瓜达拉哈拉的标志",

@@ -20,7 +20,7 @@
   },
   "intro": {
     "title": "Explora Expiatorio Park",
-    "description": "Parque Expiatorio se encuentra en la colonia Americana de Guadalajara, Jalisco, México. Es un hermoso parque urbano adyacente al magnífico Templo Expiatorio, ofreciendo a los visitantes un excelente lugar para relajarse y disfrutar de la cultura y la gastronomía.",
+    "description": "Parque Expiatorio se encuentra en la colonia Americana de Guadalajara, Jalisco, México, adyacente al magnífico Templo Expiatorio. Es una hermosa plaza urbana que combina a la perfección la solemne fe religiosa con una fuerte vida callejera local, siendo un excelente lugar para que los turistas y las familias locales se relajen y disfruten de auténtica comida callejera.",
     "visitGuide": {
       "title": "Consejos de visita",
       "items": [
@@ -31,29 +31,29 @@
       ]
     },
     "alsoKnownAs": {
-      "title": "Aspectos destacados",
+      "title": "Aspectos Destacados",
       "items": [
-        "Parque urbano: Ubicado en Col Americana, Guadalajara, con hermosos alrededores.",
-        "Espacio recreativo: Ofrece áreas verdes y senderos para relajación y ejercicio.",
-        "Familiar: Ideal para salidas familiares con instalaciones de juego para niños.",
-        "Ubicación privilegiada: Ubicado en Guadalajara, Jalisco, fácilmente accesible."
+        "Hito Neogótico: Adyacente a la iglesia neogótica más magnífica de México, extremadamente impresionante cuando se ilumina de noche.",
+        "Familiar: Un ambiente cálido y tranquilo con áreas verdes y senderos para que los ciudadanos se relajen, donde a menudo juegan los niños.",
+        "Mercado Nocturno de Comida: Por la noche, la plaza se transforma en un famoso mercado nocturno de comida local, una meca para degustar antojitos auténticos y asequibles.",
+        "Distrito de Arte: Ubicado en la artística colonia Americana, rodeado de cafeterías y espacios de arte."
       ]
     }
   },
   "route": {
-    "title": "Ruta Turística",
-    "overview": "Descubre la ruta ideal para explorar la Plaza de los Mariachis y experimentar la esencia de la música y cultura mexicana.",
+    "title": "Ruta de Recorrido",
+    "overview": "La ruta ideal para explorar el Parque Expiatorio y experimentar la tranquilidad y la vibrante vida de la plaza:",
     "steps": [
-      "Llega a la plaza por la tarde para admirar la arquitectura colonial circundante y las placas históricas.",
-      "Por la noche, encuentra un asiento en un restaurante o bar al aire libre para disfrutar de tequila tradicional y cocina mexicana.",
-      "Al caer la noche, disfruta de las actuaciones en vivo de las bandas de Mariachis y siente el animado ambiente musical.",
-      "Después de tu visita, camina hasta el cercano Mercado San Juan de Dios para comprar recuerdos."
+      "16:00: Llegue a la plaza, visite los vitrales dentro del Templo Expiatorio y espere a que las estatuas de los doce apóstoles en la torre del reloj marquen la hora a las 18:00.",
+      "18:30: Al caer la noche, se encienden las luces del paisaje en el muro exterior de la iglesia. En este momento, los puestos de comida en la plaza comienzan a abrir. Puede comprar elotes asados o postres y sentarse en las bancas de la plaza para experimentar el estilo de vida local.",
+      "19:30: Disfrute de actividades comunitarias locales espontáneas en la plaza, como clases de baile de salsa al aire libre o interacciones familiares.",
+      "20:30: Después del recorrido, camine unos pasos para ver la vista nocturna del exterior del Museo de las Artes de la Universidad de Guadalajara (MUSA), o encuentre una cafetería boutique para descansar en la colonia Americana circundante."
     ],
-    "supplementsTitle": "Consejos Adicionales",
+    "supplementsTitle": "Sugerencias Adicionales",
     "supplements": [
-      "Por favor, prepara algo de efectivo en pesos de baja denominación para dar propina a los músicos.",
-      "El área alrededor de la plaza puede estar concurrida, así que cuida tus pertenencias personales.",
-      "Si deseas pedir una canción, puedes preparar los nombres de tus canciones tradicionales mexicanas favoritas con anticipación."
+      "Preparación de Efectivo: Por favor prepare algo de efectivo en pesos de baja denominación, ya que los puestos de comida y vendedores en la plaza generalmente solo aceptan efectivo.",
+      "Consejos de Seguridad: Aunque está ubicado en una buena zona con seguridad relativamente buena, la plaza está concurrida por la noche, así que vigile su teléfono y billetera.",
+      "Consejos sobre el Clima: La temporada de lluvias de Guadalajara (mayo-octubre) presenta principalmente lluvias por la tarde o noche, por favor traiga un paraguas."
     ]
   },
   "knowledge": {
@@ -93,46 +93,46 @@
     "plusCodeValue": "MJFR+6C Guadalajara, Jalisco, México"
   },
   "hours": {
-    "title": "Horarios",
-    "outdoor": "Área de la plaza",
-    "outdoorTime": "Abierto todo el día (verificar información oficial)",
-    "lighthouse": "Mejor época para visitar",
-    "summer": "Temporada seca (noviembre-abril)",
+    "title": "Horario",
+    "outdoor": "Horario Diario",
+    "outdoorTime": "09:00–23:00 (El horario de los puestos es principalmente de tarde a noche)",
+    "lighthouse": "Mejor Época para Visitar",
+    "summer": "Temporada Seca (Nov-Abr)",
     "summerTime": "Clima más agradable, ideal para visitas al aire libre",
-    "winter": "Temporada de lluvias (mayo-octubre)",
-    "winterTime": "Clima cálido con lluvias por la tarde, llevar paraguas",
-    "warning": "Notas importantes",
-    "warningTime": "Se recomienda verificar la información más reciente antes de visitar",
-    "tip": "Las visitas nocturnas ofrecen las mejores actuaciones musicales"
+    "winter": "Temporada de Lluvias (May-Oct)",
+    "winterTime": "Clima cálido, lluvia por la tarde, lleve paraguas",
+    "warning": "Aviso Importante",
+    "warningTime": "Verifique la información más reciente antes de visitar",
+    "tip": "Visite por la tarde para disfrutar de la mejor experiencia de comida del mercado nocturno"
   },
   "tickets": {
-    "title": "Entradas",
-    "outdoor": "Visita a la plaza",
-    "outdoorPrice": "Entrada gratuita",
-    "lighthouse": "Actuaciones musicales",
-    "adults": "Actuaciones en vivo",
-    "adultsPrice": "Propina apreciada",
-    "students": "Experiencia gastronómica",
-    "studentsPrice": "Muchos restaurantes y puestos de comida cerca",
-    "children": "Recomendaciones",
-    "childrenPrice": "Respetar a los músicos y disfrutar las actuaciones",
-    "card": "Servicios adicionales",
-    "cardPrice": "Souvenirs y álbumes de música disponibles"
+    "title": "Boletos y Consumo",
+    "outdoor": "Visita a la Plaza e Iglesia",
+    "outdoorPrice": "Completamente Gratis",
+    "lighthouse": "Consumo de Comida",
+    "adults": "Comida Callejera",
+    "adultsPrice": "Asequible y económica",
+    "students": "Restaurantes Cercanos",
+    "studentsPrice": "Varias opciones, diferentes precios",
+    "children": "Sugerencia",
+    "childrenPrice": "Lleve efectivo pequeño",
+    "card": "Servicios Adicionales",
+    "cardPrice": "Sin consumo obligatorio"
   },
   "transport": {
-    "title": "Cómo llegar",
-    "airport": "Desde el aeropuerto",
-    "airportDesc": "Aeropuerto más cercano: Aeropuerto Internacional de Guadalajara (GDL). Desde allí, tomar autobús o taxi al centro histórico.",
-    "selfDrive": "En automóvil",
-    "selfDriveDesc": "La plaza está ubicada en el centro histórico. Use navegación y busque estacionamiento público cerca.",
-    "bus": "Transporte público",
-    "busDesc": "Tomar metro o autobús de Guadalajara hasta la estación Centro Histórico, luego caminar a la plaza.",
-    "intercity": "Tour a pie",
-    "intercityDesc": "La plaza está en el centro histórico, caminable a atracciones cercanas.",
-    "cycling": "Otros medios",
-    "cyclingDesc": "Se recomienda transporte público o caminar, el tráfico en el centro histórico puede estar congestionado.",
-    "tips": "Consejos de viaje",
-    "tipsDesc": "La Plaza de los Mariachis es un excelente lugar para experimentar la música y cultura mexicana, se recomiendan las visitas nocturnas."
+    "title": "Transporte",
+    "airport": "Desde el Aeropuerto",
+    "airportDesc": "Aeropuerto más cercano: Aeropuerto Internacional de Guadalajara (GDL). Tome un taxi o servicio de transporte por aplicación a la colonia Americana.",
+    "selfDrive": "Conducción Propia",
+    "selfDriveDesc": "Hay algunos estacionamientos públicos de pago cerca, pero el estacionamiento puede estar limitado por la noche.",
+    "bus": "Transporte Público",
+    "busDesc": "Puede tomar un autobús o el tren ligero (Mi Macro) hasta la estación Juárez y caminar.",
+    "intercity": "Recorrido a Pie",
+    "intercityDesc": "Muy conveniente para caminar si se hospeda en la colonia Americana o en el centro histórico.",
+    "cycling": "Otros Métodos",
+    "cyclingDesc": "Taxi/transporte por aplicación (Uber/DiDi) es el método de transporte más recomendado y seguro.",
+    "tips": "Consejos de Viaje",
+    "tipsDesc": "El transporte público o taxi están bien; si conduce, hay estacionamientos públicos de pago cerca."
   },
   "gallery": {
     "title": "Fotos impresionantes",
@@ -338,8 +338,8 @@
     "rejectAll": "Rechazar todo"
   },
   "officialManagement": {
-    "title": "Acerca de Plaza de los Mariachis",
-    "text": "Plaza de los Mariachis es un lugar cultural en Guadalajara, y la música mariachi es reconocida por la UNESCO como Patrimonio Cultural Inmaterial."
+    "title": "Administración",
+    "text": "Área de Plaza/Parque: Como espacio público urbano, es administrado de manera uniforme por el Ayuntamiento de Guadalajara.\n\nTemplo Expiatorio (Iglesia): Administrado por la Arquidiócesis de Guadalajara."
   },
   "aboutExpiatorio": {
     "title": "Templo Expiatorio: Un Ícono de Guadalajara",

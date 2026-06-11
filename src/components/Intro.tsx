@@ -25,27 +25,7 @@ export default function Intro() {
           {t('description')}
         </p>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          <div
-            className="rounded-xl p-6 sm:p-8"
-            style={{ background: 'var(--bg-tertiary)' }}
-          >
-            <h3
-              className="font-display text-xl font-semibold mb-4"
-              style={{ color: 'var(--text-primary)' }}
-            >
-              {t('visitGuide.title')}
-            </h3>
-            <ul className="space-y-3">
-              {items.map((item, i) => (
-                <li key={i} className="flex items-start gap-3">
-                  <span className="mt-1.5 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
-                  <span style={{ color: 'var(--text-secondary)' }}>{item}</span>
-                </li>
-              ))}
-            </ul>
-          </div>
-
+        <div className="grid grid-cols-1 gap-8">
           <div
             className="rounded-xl p-6 sm:p-8"
             style={{ background: 'var(--bg-tertiary)' }}
@@ -56,13 +36,40 @@ export default function Intro() {
             >
               {t('alsoKnownAs.title')}
             </h3>
-            <ul className="space-y-3">
-              {alsoKnownAsItems.map((keyword, i) => (
-                <li key={i} className="flex items-start gap-3">
-                  <span className="mt-1.5 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
-                  <span style={{ color: 'var(--text-secondary)' }}>{keyword}</span>
-                </li>
-              ))}
+            <ul className="space-y-4">
+              {alsoKnownAsItems.map((keyword, i) => {
+                const parts = keyword.split('：');
+                if (parts.length > 1) {
+                  return (
+                    <li key={i} className="flex items-start gap-3">
+                      <span className="mt-2 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
+                      <span style={{ color: 'var(--text-secondary)' }}>
+                        <strong style={{ color: 'var(--text-primary)' }}>{parts[0]}：</strong>
+                        {parts.slice(1).join('：')}
+                      </span>
+                    </li>
+                  );
+                }
+                // Handle English/Spanish colon
+                const enParts = keyword.split(': ');
+                if (enParts.length > 1) {
+                  return (
+                    <li key={i} className="flex items-start gap-3">
+                      <span className="mt-2 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
+                      <span style={{ color: 'var(--text-secondary)' }}>
+                        <strong style={{ color: 'var(--text-primary)' }}>{enParts[0]}: </strong>
+                        {enParts.slice(1).join(': ')}
+                      </span>
+                    </li>
+                  );
+                }
+                return (
+                  <li key={i} className="flex items-start gap-3">
+                    <span className="mt-2 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
+                    <span style={{ color: 'var(--text-secondary)' }}>{keyword}</span>
+                  </li>
+                );
+              })}
             </ul>
           </div>
         </div>
