@@ -1,0 +1,248 @@
+
+
+我们网站是
+expiatoriopark.com
+检查下有没有错误
+
+墨西哥哈利斯科州	Expiatorio Park
+Expiatorio Park
+Parque Expiatorio
+4.7(8,157)
+公园
+
+Col Americana, Americana, 44160 Guadalajara, Jalisco, 墨西哥
+MJFR+6C 瓜达拉哈拉 墨西哥哈利斯科州
+单景点注册.com 域名推荐
+
+
+
+表单字段	填写内容（英文 / 原地址，推荐）	填写内容（中文对照）
+国家 / 地区 *	Mexico	墨西哥
+地址 *	Col Americana, Americana	美洲区，美洲社区
+地址 2（选填）	Parque Expiatorio (Expiatorio Park)	赎罪圣殿公园（Expiatorio Park）
+城市 *	Guadalajara	瓜达拉哈拉
+省 / 自治区 / 直辖市 *	Jalisco	哈利斯科州
+邮政编码 *	44160	44160
+
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 Expiatorio Park 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文、西班牙语、英文，三语言
+
+expiatorio-park
+
+墨西哥哈利斯科州	Expiatorio Park
+Expiatorio Park
+Parque Expiatorio
+4.7(8,157)
+公园
+
+Col Americana, Americana, 44160 Guadalajara, Jalisco, 墨西哥
+MJFR+6C 瓜达拉哈拉 墨西哥哈利斯科州
+
+https://maps.app.goo.gl/7LuiFPvzPmf6TEYk9
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\墨西哥\expiatorio-park\public\gallery\expiatorio-park  (11).jpg
+
+
+
+删除原先友情链接，新增以下友情链接
+
+墨西哥国家旅游局
+https://visitmexico.com/
+
+墨西哥联邦政府旅游部
+https://www.gob.mx/sectur
+
+哈利斯科州旅游局
+https://secturjal.jalisco.gob.mx/
+
+瓜达拉哈拉官方旅游局
+https://visitagdl.com/
+
+国家遗产与历史名胜数据库
+https://lugares.inah.gob.mx/es
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/7LuiFPvzPmf6TEYk9
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/7LuiFPvzPmf6TEYk9
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/7LuiFPvzPmf6TEYk9
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/7LuiFPvzPmf6TEYk9
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+生成一个文件忽略不需要上传的文件
+
+新增
+西班牙语
+
+删除 探索更多 板块
+
+
+
+
+
+
+
+
+
+
+
+墨西哥国家旅游局
+https://visitmexico.com/
+
+墨西哥联邦政府旅游部
+https://www.gob.mx/sectur
+
+哈利斯科州旅游局
+https://secturjal.jalisco.gob.mx/
+
+瓜达拉哈拉官方旅游局
+https://visitagdl.com/
+
+UNESCO 联合国教科文组织 - 玛利亚奇音乐非物质文化遗产档案
+https://ich.unesco.org/en/RL/mariachi-string-music-song-and-trumpet-00575
+
+玛利亚奇：世界文化遗产数字展览
+https://artsandculture.google.com/story/mariachi-heritage-of-the-world/DwVxmtyVLG4Dbw
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/7LuiFPvzPmf6TEYk9
+页面一共四个链接每一个都需要修改
+
+
+
+
+墨西哥国家旅游局
+https://visitmexico.com/
+
+墨西哥联邦政府旅游部
+https://www.gob.mx/sectur
+
+哈利斯科州旅游局
+https://secturjal.jalisco.gob.mx/
+
+瓜达拉哈拉官方旅游局
+https://visitagdl.com/
+
+UNESCO 联合国教科文组织 - 玛利亚奇音乐非物质文化遗产档案
+https://ich.unesco.org/en/RL/mariachi-string-music-song-and-trumpet-00575
+
+玛利亚奇：世界文化遗产数字展览
+https://artsandculture.google.com/story/mariachi-heritage-of-the-world/DwVxmtyVLG4Dbw
+
+
+
+
+墨西哥联邦政府旅游部
+https://www.gob.mx/sectur
+哈利斯科州旅游局
+https://secturjal.jalisco.gob.mx/inicio
+特乌奇特兰市政府政务与透明度
+https://teuchitlan.jalisco.gob.mx/inicio
+
+墨西哥国家人类学与历史研究所
+https://www.inah.gob.mx/
+INAH 官方考古遗址名录
+https://lugares.inah.gob.mx/es/zonas-arqueologicas/zonas/1715-teuchitl%C3%A1n-o-guachimontones.html
+
+
+
+
+
+
+
+
+Visit Mexico 墨西哥国家旅游局官方网站
+
+URL: [https://visitmexico.com/](https://visitmexico.com/)
+
+描述: 国家级的官方旅游信息门户，提供整个国家的宏观旅游数据、官方旅行指南及安全指引。
+
+Secretaría de Turismo de Jalisco 哈利斯科州旅游局
+
+URL: [https://secturjal.jalisco.gob.mx/](https://secturjal.jalisco.gob.mx/)
+
+描述: 州政府级别的官方机构网站，收录了哈利斯科州（玛利亚奇音乐的起源地）的官方旅游线路规划及州级文化推广信息。
+
+Visita GDL 瓜达拉哈拉官方旅游局
+
+URL: [https://visitagdl.com/](https://visitagdl.com/)
+
+描述: 瓜达拉哈拉市官方旅游目的地门户，详细记录了城市中心的各个地标，包括玛利亚奇广场的日常活动、周边历史建筑及当地餐饮推荐。
+
+UNESCO 联合国教科文组织 - 玛利亚奇音乐非物质文化遗产档案
+
+URL: [https://ich.unesco.org/en/RL/mariachi-string-music-song-and-trumpet-00575](https://ich.unesco.org/en/RL/mariachi-string-music-song-and-trumpet-00575)
+
+描述: 全球最高级别的文化遗产数据库链接，详细记录了玛利亚奇作为人类非物质文化遗产的历史渊源、乐器编制演变及社会文化价值。
+
+Cultura Jalisco - 玛利亚奇：世界文化遗产数字展览
+
+URL: [https://artsandculture.google.com/story/mariachi-heritage-of-the-world/DwVxmtyVLG4Dbw](https://artsandculture.google.com/story/mariachi-heritage-of-the-world/DwVxmtyVLG4Dbw)
+
+描述: 由哈利斯科州文化部直接授权提供的详细地方遗产数据库，包含了大量关于传统玛利亚奇服饰、当地演艺历史以及广场演出生态的深度图文与数字化档案。
+
+
+
+
+
+
+
+
+
+
+— Guadalajara, Historia, tour Guadalajara —
+Templo Expiatorio: Un Ícono de Guadalajara
+
+Si hay un lugar que simboliza la riqueza arquitectónica de Guadalajara y de México, es sin duda la Basílica del Santísimo Sacramento, comúnmente conocida como el Templo Expiatorio. Este majestuoso recinto no solo es un símbolo de fe, sino también un referente cultural que atrae tanto a nacionales como a turistas de todo el mundo. ¡Acompáñanos a explorar su fascinante historia y características!
+
+La Historia del Expiatorio
+
+
+La historia del Templo Expiatorio se remonta al siglo XIX, cuando se formó una comisión especial para su construcción. Bajo la dirección del arzobispo de Guadalajara, Pedro Loza y Pardavé, se convocó un concurso entre arquitectos e ingenieros para diseñar lo que se convertiría en este emblemático templo. El proyecto del destacado arquitecto italiano Adamo Boari fue seleccionado. Boari también fue responsable de la planificación de obras como el Palacio de Bellas Artes y el Palacio del Correo Mayor en la Ciudad de México.
+
+La construcción del Templo Expiatorio comenzó en 1897 y no se completó hasta 1972, lo que equivale a 75 años de trabajo. Esta prolongada edificación se debió en gran parte a la Revolución Mexicana, que interrumpió los avances por la crisis económica y la represión religiosa de la época. A lo largo de los años, diversos arquitectos e ingenieros tomaron las riendas del proyecto hasta que finalmente se concluyó en la década de los setenta.
+
+Un Templo de Estilo Neogótico
+
+
+El Templo Expiatorio es un magnífico ejemplo del estilo neogótico, construido principalmente con piedra tallada, técnica común en la Edad Media. Sus grandes puertas de madera, figuras de bronce y vitrales impresionantes son solo algunas de sus características. Un aspecto particularmente llamativo es su reloj, que cuenta con un carrillón musical; cada día a las 9 a.m., 12 p.m. y 6 p.m., figuras de los doce apóstoles de Jesús emergen y las campanas suenan en un espectáculo inolvidable. Este reloj, de origen alemán, fue un regalo en 1969 y sus cuatro carátulas se iluminan cada noche.
+
+Considerado la obra maestra del neogótico en México, el Templo Expiatorio presenta similitudes con la Catedral de Orvieto en Italia, destacando sus altas bóvedas y grandes rosetones. Sin duda, es un lugar de visita obligada tanto para los devotos como para los amantes de la arquitectura y el arte sacro.
+
+Un Encuentro Religioso y Gastronómico
+
+
+El Expiatorio no solo ofrece una experiencia espiritual; su explanada también es un lugar vibrante lleno de entretenimiento y una oferta gastronómica deliciosa. Aquí puedes disfrutar de pasteles, elotes, aguas frescas, tacos, hamburguesas y opciones veganas. Además, la zona está rodeada de una variedad de restaurantes, cafés y bares que satisfacen todos los antojos.
+
+A pocos pasos, puedes explorar el Museo de las Artes (MUSA) o disfrutar de una proyección en el Cineforo de la Universidad de Guadalajara, que presenta una selección de películas de diversas partes del mundo.
+
+¿Por Qué se Llama Expiatorio?
+
+
+Aunque su nombre oficial es la Basílica del Santísimo Sacramento, se le atribuyó el nombre de “Expiatorio” en 1906, otorgándole la capacidad de realizar ceremonias de expiación, donde se busca la reparación de pecados y la reconciliación del ser humano con Dios. Por esta razón, y por la tradición, todos se refieren a él simplemente como el Templo Expiatorio.
+
+Ahora que conoces más sobre este emblemático lugar, ¿cuándo planeas visitar Guadalajara? Se dice que si vienes a la Perla Tapatía y no pasas por el Expiatorio, es como si no hubieras estado aquí. ¡No te lo pierdas! Recuerda que Jalisco es México.
+
+参考以上内容完善页面信息 
+
+
