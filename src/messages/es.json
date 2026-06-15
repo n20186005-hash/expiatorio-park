@@ -57,22 +57,22 @@
     ]
   },
   "knowledge": {
-    "title": "Descubre el encanto de Plaza de los Mariachis",
+    "title": "Descubre el encanto del Parque Expiatorio",
     "sections": [
       {
         "id": "history",
         "title": "Significado histórico",
-        "content": "La Plaza de los Mariachis es el centro de la tradición cultural y musical de Guadalajara. La música mariachi se originó en el siglo XIX en Jalisco y ha sido reconocida por la UNESCO como Patrimonio Cultural Inmaterial de la Humanidad. La plaza es donde los músicos se reúnen para actuar."
+        "content": "El Parque Expiatorio es un hermoso parque urbano en la colonia Americana de Guadalajara. El parque ofrece áreas verdes y senderos para caminar, convirtiéndolo en un lugar ideal para relajarse y hacer ejercicio."
       },
       {
         "id": "culture",
         "title": "Paisaje cultural",
-        "content": "La plaza se encuentra en el centro histórico de Guadalajara, rodeada de edificios de estilo colonial. Es un excelente lugar para experimentar la cultura tradicional mexicana y la música, lleno de vitalidad y color."
+        "content": "El parque está adyacente al magnífico Templo Expiatorio neogótico y rodeado de edificios artísticos. Es un lugar excelente para experimentar la vida urbana y la comida callejera mexicana, lleno de tranquilidad y vitalidad."
       },
       {
         "id": "experience",
         "title": "Experiencia de visita",
-        "content": "Visitar la Plaza de los Mariachis es una experiencia cultural inolvidable. Puedes escuchar actuaciones en vivo de mariachis, probar comida mexicana tradicional y sentir la pasión y vitalidad de la cultura mexicana."
+        "content": "Visitar el Parque Expiatorio es una experiencia relajante. Puede caminar por las áreas verdes, disfrutar del paisaje natural, sentir el ambiente cálido del parque y degustar comida auténtica por la noche."
       }
     ]
   },
@@ -162,49 +162,49 @@
         "name": "Juan Carlos",
         "date": "Hace 1 mes",
         "rating": 5,
-        "text": "Un lugar mágico lleno de música y cultura. Las actuaciones en vivo de mariachis son inolvidables, altamente recomendado para todos los turistas."
+        "text": "Un lugar mágico lleno de historia y cultura. La iglesia iluminada por la noche es inolvidable, altamente recomendado para todos los turistas."
       },
       {
         "name": "María Elena",
         "date": "Hace 2 semanas",
         "rating": 5,
-        "text": "Experiencia cultural asombrosa. Los músicos son muy profesionales y la música está llena de pasión. Este es la esencia de la cultura mexicana."
+        "text": "Experiencia asombrosa. La arquitectura es magnífica y la plaza está llena de vida callejera local. Esta es la esencia de Guadalajara."
       },
       {
         "name": "Roberto Méndez",
         "date": "Hace 3 meses",
         "rating": 4,
-        "text": "Lugar muy interesante para experimentar el auténtico mariachi. Se recomiendan las visitas nocturnas cuando los músicos comienzan a actuar."
+        "text": "Lugar muy interesante para experimentar la auténtica vida local. Se recomiendan las visitas nocturnas cuando abren los puestos del mercado nocturno."
       },
       {
         "name": "Ana Lucía",
         "date": "Hace más de 6 meses",
         "rating": 5,
-        "text": "Una parte importante de la cultura mexicana. Las actuaciones de los músicos son conmovedoras, un lugar obligatorio en Guadalajara."
+        "text": "Una parte importante de Guadalajara. La arquitectura neogótica es conmovedora, un lugar obligatorio."
       },
       {
         "name": "Carlos Herrera",
         "date": "Hace 1 año",
         "rating": 4,
-        "text": "Excelente experiencia cultural. Las actuaciones musicales son maravillosas, y hay muchos puestos de comida cerca."
+        "text": "Excelente experiencia relajante. El ambiente de la plaza es muy tranquilo y hay muchos puestos de comida cerca."
       },
       {
         "name": "Sofía Vargas",
         "date": "Hace más de 6 meses",
         "rating": 5,
-        "text": "Hermosa plaza, llena del encanto de la cultura mexicana. Las actuaciones de los músicos son inolvidables, definitivamente vale la pena visitarla."
+        "text": "Hermosa plaza, llena del encanto de la vida de la ciudad. Los apóstoles marcando la hora en la torre del reloj es inolvidable, definitivamente vale la pena visitarla."
       },
       {
         "name": "Miguel Ángel",
         "date": "Hace 2 meses",
         "rating": 4,
-        "text": "Interesante lugar cultural. Experimenta el mariachi en vivo de cerca, se aprecia la propina para mostrar respeto a los músicos."
+        "text": "Interesante lugar recreativo urbano. Puede experimentar las actividades familiares locales de cerca, y la comida callejera es muy auténtica."
       },
       {
         "name": "Laura Patricia",
         "date": "Hace 1 mes",
         "rating": 5,
-        "text": "Gema cultural de Guadalajara. La música mariachi es Patrimonio Cultural Inmaterial de la UNESCO, definitivamente vale la pena experimentarla."
+        "text": "Gema arquitectónica de Guadalajara. El Templo Expiatorio es un hito imperdible, definitivamente vale la pena dar un paseo y tomar fotos."
       }
     ]
   },
