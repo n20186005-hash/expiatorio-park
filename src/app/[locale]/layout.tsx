@@ -79,6 +79,7 @@ export default async function LocaleLayout({
   return (
     <html lang={langMap[locale] || 'zh-CN'} suppressHydrationWarning>
       <head>
+        <meta httpEquiv="Content-Security-Policy" content="upgrade-insecure-requests" />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
         <script
